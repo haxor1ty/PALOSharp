@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-<title>Aktualizacja PALO# jest dostępna</title>
-<version>2.0.0.0</version>
+<version>1.2.4.0</version>
 <url>https://github.com/hiimhaxy/PALOSharp/raw/master/PaloSharp.exe</url>
+<changelog>https://raw.githubusercontent.com/hiimhaxy/PALOSharp/master/Changelog.html</changelog>
 </item>
